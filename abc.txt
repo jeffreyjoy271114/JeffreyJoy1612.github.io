@@ -1,0 +1,13 @@
+		<!-- Footer -->
+			<section id="footer">
+				<ul class="icons">
+					<li><a href="https://github.com/jeffreyjoy271114" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="https://www.linkedin.com/in/jeffrey-joy-chakkumpidy-259703184/" class="icon brands alt fa-linkedin"><span class="label">Linkedin</span></a></li>
+					<li><a href="https://www.instagram.com/_jeffreeyyyyy/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+					<!-- <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li> -->
+					<!-- <li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li> -->
+			<!--	</ul>
+				<ul class="copyright">
+					<li>&copy; Jeffrey Joy 2023</li><li>Design: <a href="#">Jeffrey</a></li>
+				</ul> -->
+			</section>
